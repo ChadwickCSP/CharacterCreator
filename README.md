@@ -10,5 +10,5 @@ A finished version of the Basic part of this project can be found here:
 
 ## Milestones
 
-1. [Getting Started](00_GettingStarted/GettingStarted.md)
-2. [Adding a Player Object](01_AddingAPlayerObject/AddingAPlayerObject.md)
+0. [Getting Started](00_GettingStarted/GettingStarted.md)
+1. [Adding a Player Object](01_AddingAPlayerObject/AddingAPlayerObject.md)
