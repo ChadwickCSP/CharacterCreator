@@ -12,3 +12,5 @@ A finished version of the Basic part of this project can be found here:
 
 0. [Getting Started](00_GettingStarted/GettingStarted.md)
 1. [Adding a Player Object](01_AddingAPlayerObject/AddingAPlayerObject.md)
+2. [Adding a Shop](02_AddingAShop/AddingAShop.md)
+3. [Advanced Features](03_AdvancedFeatures/AdvancedFeatures.md)
