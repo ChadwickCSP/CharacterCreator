@@ -38,6 +38,11 @@ selected. For example, each weapon could have a different sound:
 * The sword makes a "schwing" sound
 * The Chain armor makes a "chunk" sound
 
+Two great sites to find resources that you can use:
+
+* OpenGameArt.org: [LINK](https://opengameart.org/)
+* FreeSound.org (free sign-up required to download): [LINK](http://www.freesound.org/)
+
 ## Add a Text information about items (Medium Feature)
 
 Add text elements to your scene to display the name, description, and price of
