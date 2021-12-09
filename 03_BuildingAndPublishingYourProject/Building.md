@@ -101,7 +101,7 @@ Unity and it may tell you that you have to install WebGL support. If this is the
 case, go through the on screen instructions. Unfortunately, I wasn't able to get
 screenshots of this process but I believe in you!
 
-![Switch Platforms](images/SwitchPlatforms.pngs)
+![Switch Platforms](images/SwitchPlatforms.png)
 
 After a moment, the platform will switch. Now, you can build your project for
 the web.
