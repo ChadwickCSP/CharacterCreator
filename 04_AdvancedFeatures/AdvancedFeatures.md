@@ -56,6 +56,7 @@ each item.
   `SetPrice(string)` method to your `PlayerController`
 * Add the appropriate Event Listeners to each buttons `OnClick` event.
 
+Demo of a project with this feature: [LINK](https://jcollard.github.io/CharacterCreatorDemo/)
 
 ## Add a "Magic Shop" using Particle Effects (Medium Feature)
 
@@ -69,6 +70,8 @@ Research how to use the `Particle Effect` system built into Unity to make a
 * Make several (at least 3) different "Magic" options
 * Create a Magic Shop canvas with buttons which call the `SetActive` option
   appropriately for each of your "Magic" effects.
+
+Demo of a project with this feature: [LINK](https://jcollard.github.io/CharacterCreatorDemo/)
 
 ## Character Randomizer (Hard Feature)
 
