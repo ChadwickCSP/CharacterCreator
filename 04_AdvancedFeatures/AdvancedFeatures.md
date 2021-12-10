@@ -16,6 +16,7 @@ When you have finished, you should save, build, and publish your changes to your
 Here are some pre approved ideas:
 
 - [Advanced Features](#advanced-features)
+  - [Demo Features](#demo-features)
   - [Add Background Music (Easy Feature)](#add-background-music-easy-feature)
   - [Add Sound Effects (Easy Feature)](#add-sound-effects-easy-feature)
   - [Add a Text information about items (Medium Feature)](#add-a-text-information-about-items-medium-feature)
@@ -23,6 +24,12 @@ Here are some pre approved ideas:
   - [Character Randomizer (Hard Feature)](#character-randomizer-hard-feature)
   - [Make a second Project (Medium / Hard Feature)](#make-a-second-project-medium--hard-feature)
     - [Monster Selector (Medium / Hard Feature)](#monster-selector-medium--hard-feature)
+
+## Demo Features
+
+Click the image below to open an example project demonstrating some features you could add.
+
+<a href="https://jcollard.github.io/CharacterCreatorDemo/" target="_blank"><img src="images/demo.png"></a>
 
 ## Add Background Music (Easy Feature)
 
