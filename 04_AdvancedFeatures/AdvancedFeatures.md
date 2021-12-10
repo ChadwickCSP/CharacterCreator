@@ -63,6 +63,7 @@ each item.
 * Write a `SetName(string)`, a `SetDescription(string)`, and a
   `SetPrice(string)` method to your `PlayerController`
 * Add the appropriate Event Listeners to each buttons `OnClick` event.
+* When you're finished, publish your project to a GitHub Page repository
 
 Demo of a project with this feature: [LINK](https://jcollard.github.io/CharacterCreatorDemo/)
 
