@@ -23,6 +23,7 @@ Here are some pre approved ideas:
   - [Add a "Magic Shop" using Particle Effects (Medium Feature)](#add-a-magic-shop-using-particle-effects-medium-feature)
   - [Character Randomizer (Hard Feature)](#character-randomizer-hard-feature)
   - [Make a second Project (Medium / Hard Feature)](#make-a-second-project-medium--hard-feature)
+    - [Some resources that you could use (All from OpenGameArt.org)](#some-resources-that-you-could-use-all-from-opengameartorg)
     - [Monster Selector (Medium / Hard Feature)](#monster-selector-medium--hard-feature)
 
 ## Demo Features
@@ -101,11 +102,33 @@ the randomly generated number, call a specific buttons `OnClick` method.
 
 ## Make a second Project (Medium / Hard Feature)
 
+Use everything you've learned thus far to create a completely new project that
+utilizes images, text, and buttons.
+
+You should:
+
+* Create a new repository on Git and invite Mx. Collard
+* Make sure to add a Unity `.gitignore`
+* Create a new 2D (or if you're brave 3D) Unity Project
+* Find graphics on the internet and add them to your project
+* Add buttons to switch elements on the screen
+* Add Text on the screen and use a custom font
+
+### Some resources that you could use (All from OpenGameArt.org)
+
+* Pixel Art Food Builder Icons: [LINK](https://opengameart.org/content/lpc-meals)
+* Adventure Game Equipment Sprites: [LINK](https://opengameart.org/content/armor-icons-by-equipment-slot)
+* Fantasy Icons: [LINK](https://opengameart.org/content/fantasy-icon-pack-by-ravenmore-0)
+* Parallax Background: [LINK](https://opengameart.org/content/pixel-art-parallax-background)
+* Underground Background: [LINK](https://opengameart.org/content/underground-sidescroller-background)
+* Space Background: [LINK](https://opengameart.org/content/space-background-3)
+
+### Monster Selector (Medium / Hard Feature)
+
 The sprites you're using for this project come from a game that has additional
 assets. Make a second project using those assets. A "Monster Selector" would be
 great! But, you can suggest another project of your own design.
 
-### Monster Selector (Medium / Hard Feature)
 
 Enemies: [LINK](Files/enemies.zip)
 
